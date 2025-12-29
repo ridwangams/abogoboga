@@ -1,18 +1,17 @@
-[
-  {
-    "id": 1766678888435,
-    "token": "8204276696:AAG5OHA71cbiZcScMurYMFc__iLAR80F_Jo",
-    "buyer": "ridwan",
-    "uploader": "Owner",
-    "active": true,
-    "date": "12/25/2025, 4:08:08 PM"
-  },
-  {
-    "id": 1766679152326,
-    "token": "8539267108:AAGPk7AGUKdEoSDAbtbdl4YzWA2uR2iwvf8",
-    "buyer": "buyer test",
-    "uploader": "test",
-    "active": true,
-    "date": "12/25/2025, 4:12:32 PM"
-  }
-]
+{
+  "tokens": [
+    "7832341626:AAHL9sTidtRjcXda2p4wKYrXMukFIIDscNA",
+    "7914439323:AAGZ8ea57IyS4dobRE5Bmzi5rApI5u-3gFI",
+    "8050389259:AAEw0SSpgF04fyO69bIfJJ-72HQmS22jabI",
+    "8163377930:AAEL1AAYEeLwTqBkBNBh2DbLu7J2h3gWIwg",
+    "8083512532:AAGMJso9P-yZBlGi7YXGkR6ici6bwPt_8tQ",
+    "7274918258:AAFReGoi_4n6UdNn_Q5PPtSRZQSJFIirMGg",
+    "7770653512:AAGEhtDvLs_P1GQT2fC27UyKVj7Pzf_TlwY",
+    "7961429519:AAHA9z0vyvq53kHoXFV57qPK4QTF_iee7aY",
+    "7879660609:AAH1XXfk38vuO8mP1scxgYLUXlYreLXEy1A",
+    "7833218249:AAG0jD2eX1h1eit4a6ZlubfEvRf0mzDvf6U",
+    "7921923567:AAGPkqnf9uX-YEKoHJqYZvbaMwvdA3dgGrU",
+    "8290709459:AAEPq5gOium0fjcXXuQ94VmJneSOwKnXjnc",
+    "8129840899:AAEktaZB80URgv8zBJa3dmlw2AL9mcqOdq4"
+ ]
+}
